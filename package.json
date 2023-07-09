@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bloodgroup-cplusplus/nodejs_microservice/issues"
   },
-  "homepage": "https://github.com/bloodgroup-cplusplus/nodejs_microservice#readme"
+  "homepage": "https://github.com/bloodgroup-cplusplus/nodejs_microservice#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
